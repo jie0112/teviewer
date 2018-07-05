@@ -1,0 +1,267 @@
+
+
+
+Start:              2018/06/25 14:07:29.798 (UTC+8:00)
+Version:            12.0.72365 
+ID:                 905347592
+Loglevel:           Info (100)
+License:            32113
+Server:             master10.teamviewer.com
+IC:                 503965855
+CPU:                Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+CPU extensions:     h9
+OS:                 Win_10.0.16299_W (64-bit)
+IP:                 192.168.85.1,192.168.195.1,192.168.1.235
+MID:                v012345678910abcd1111093f03c53153b06ebf7fbbf4b14282b41ca331daaaa9839d3c43df8a<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006
+MIDv:               2
+Proxy-Settings:     Type=1 IP= User=
+IE:                 11.492.16299.0
+AppPath:            C:\TeamViewe12\TeamViewer_Service.exe
+UserAccount:        SYSTEM
+
+2018/06/25 14:07:29.814  3340  4268 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/25 14:07:29.818  7060  7620 G1   IpcRouterClock: received router time: 20180625T060729.265028
+2018/06/25 17:56:27.463  3340  4256 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2018/06/25 17:56:27.690  7060 12728 G1   TAF::Hander::ListRequestThreadRun: Active LT=32113
+2018/06/25 17:56:30.327  7060  7620 G1   TAF::Handler::ParseJson: Received answer is empty.
+2018/06/25 18:00:40.142  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=353937)
+2018/06/25 18:01:25.253  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/25 18:08:40.534  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 7
+2018/06/25 18:08:40.542  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_LOCK
+2018/06/25 18:14:40.148  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=359500)
+2018/06/25 18:15:25.288  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/26 00:16:43.503  3340  4256 S0!  CTcpConnection[26]::KeepAliveBeepTimerHandler(): No KeepAliveBeepAnswer was sent. Stopping connection.
+2018/06/26 00:16:55.506  3340  4256 S0   IConnection[26]::HandleShutdownTimer(): Shutdown of connection took longer than 12 seconds. Closing Connection. (ConnectionType Type_Tcp)
+2018/06/26 00:16:55.751  3340  4256 S0   CarrierReconnectLogic[13]::StartReconnectAsClientInternal: TCP connect successful
+2018/06/26 00:16:55.995  3340  4268 S0   TcpCarrier[13]::ProcessReconnectToSessionAnswer(): Reconnect was successful with client 868032236. SendQueueEmpty: 1
+2018/06/26 00:16:55.996  3340  4268 S0   TcpCarrierBase[13]::ResendSendCache(): SendCacheSize 1 (0 Bytes) [15757,15757]
+2018/06/26 02:07:30.022  3340  4268 S0   TVRouterClock: received router time: 20180625T180729.347560
+2018/06/26 02:07:30.022  3340  4268 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/26 02:07:30.023  7060  7624 G1   IpcRouterClock: received router time: 20180625T180729.347560
+2018/06/26 08:38:53.872  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_UNLOCK
+2018/06/26 08:38:53.881  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 8
+2018/06/26 08:58:40.141  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=331437)
+2018/06/26 08:59:27.776  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/26 09:05:40.145  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=304906)
+2018/06/26 09:06:27.795  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/26 10:59:40.141  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=340890)
+2018/06/26 11:00:28.109  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/26 12:07:40.148  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=333469)
+2018/06/26 12:08:28.337  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/26 13:36:40.142  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=326765)
+2018/06/26 13:37:28.608  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/26 14:07:30.232  3340  4260 S0   TVRouterClock: received router time: 20180626T060729.401592
+2018/06/26 14:07:30.233  3340  4260 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/26 14:07:30.235  7060  7612 G1   IpcRouterClock: received router time: 20180626T060729.401592
+2018/06/26 17:56:30.327  3340  4268 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2018/06/26 17:56:30.537  7060 24764 G1   TAF::Hander::ListRequestThreadRun: Active LT=32113
+2018/06/26 17:56:31.616  7060  7624 G1   TAF::Handler::ParseJson: Received answer is empty.
+2018/06/26 18:10:40.144  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=357828)
+2018/06/26 18:11:29.430  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/26 18:15:46.564  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 7
+2018/06/26 18:15:46.576  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_LOCK
+2018/06/26 18:21:40.146  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=353531)
+2018/06/26 18:22:29.466  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/27 02:07:30.441  3340  4260 S0   TVRouterClock: received router time: 20180626T180729.461281
+2018/06/27 02:07:30.441  3340  4260 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/27 02:07:30.441  7060  7612 G1   IpcRouterClock: received router time: 20180626T180729.461281
+2018/06/27 08:43:06.715  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_UNLOCK
+2018/06/27 08:43:06.726  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 8
+2018/06/27 08:48:40.144  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=327000)
+2018/06/27 08:49:31.332  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/27 12:02:40.142  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=349078)
+2018/06/27 12:03:31.767  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/27 13:35:40.147  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=311625)
+2018/06/27 13:36:31.948  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/27 14:07:30.650  3340  4264 S0   TVRouterClock: received router time: 20180627T060729.532985
+2018/06/27 14:07:30.651  3340  4264 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/27 14:07:30.653  7060  7624 G1   IpcRouterClock: received router time: 20180627T060729.532985
+2018/06/27 16:11:40.140  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=337219)
+2018/06/27 16:12:32.224  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/27 16:30:40.141  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=314234)
+2018/06/27 16:31:32.254  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/27 17:56:31.618  3340  4264 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2018/06/27 17:56:31.828  7060 25008 G1   TAF::Hander::ListRequestThreadRun: Active LT=32113
+2018/06/27 17:56:35.017  7060  7612 G1   TAF::Handler::ParseJson: Received answer is empty.
+2018/06/27 18:17:06.249  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 7
+2018/06/27 18:17:06.258  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_LOCK
+2018/06/27 18:22:40.141  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=333859)
+2018/06/27 18:23:32.433  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 02:07:30.857  3340  4260 S0   TVRouterClock: received router time: 20180627T180729.605420
+2018/06/28 02:07:30.857  3340  4260 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/28 02:07:30.857  7060  7624 G1   IpcRouterClock: received router time: 20180627T180729.605420
+2018/06/28 02:41:40.140  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=352719)
+2018/06/28 02:42:33.207  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 08:40:20.768  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_UNLOCK
+2018/06/28 08:40:20.778  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 8
+2018/06/28 08:45:40.141  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=308094)
+2018/06/28 08:46:33.768  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 09:03:40.141  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=305484)
+2018/06/28 09:04:33.811  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 11:05:40.139  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=337047)
+2018/06/28 11:06:34.009  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 12:10:40.139  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=314422)
+2018/06/28 12:11:34.192  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 12:28:40.139  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=319234)
+2018/06/28 12:29:34.249  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 12:39:40.138  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=337531)
+2018/06/28 12:40:34.291  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 12:46:40.139  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=328859)
+2018/06/28 12:47:34.317  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 13:34:40.143  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=358547)
+2018/06/28 13:35:34.463  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 13:47:40.141  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=340578)
+2018/06/28 13:48:34.504  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/28 14:07:31.064  3340  4260 S0   TVRouterClock: received router time: 20180628T060729.680068
+2018/06/28 14:07:31.064  3340  4260 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/28 14:07:31.064  7060  7620 G1   IpcRouterClock: received router time: 20180628T060729.680068
+2018/06/28 17:56:35.019  3340  4268 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2018/06/28 17:56:35.230  7060 28900 G1   TAF::Hander::ListRequestThreadRun: Active LT=32113
+2018/06/28 17:56:40.227  7060  7624 G1!! HttpRequestImpl::CurlFinished(): curl request failed: Timeout was reached (28), Send failure: Connection was reset
+2018/06/28 17:56:40.227  7060  7624 G1!  TAF::Handler::RequestListInternal: Communication with https://client.teamviewer.com/taf/index.aspx failed
+2018/06/28 18:11:09.085  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 7
+2018/06/28 18:11:09.097  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_LOCK
+2018/06/28 18:16:40.139  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=331078)
+2018/06/28 18:17:35.277  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 02:07:31.271  3340  4268 S0   TVRouterClock: received router time: 20180628T180729.732534
+2018/06/29 02:07:31.271  3340  4268 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/29 02:07:31.272  7060  7612 G1   IpcRouterClock: received router time: 20180628T180729.732534
+2018/06/29 08:40:26.048  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_UNLOCK
+2018/06/29 08:40:26.064  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 8
+2018/06/29 09:44:40.144  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=315953)
+2018/06/29 09:45:37.369  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 10:03:40.139  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=340969)
+2018/06/29 10:04:37.410  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 11:01:40.139  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=324547)
+2018/06/29 11:02:37.561  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 11:26:40.141  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=323625)
+2018/06/29 11:27:37.601  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 12:06:40.141  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=354437)
+2018/06/29 12:07:37.673  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 12:21:40.142  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=346812)
+2018/06/29 12:22:37.720  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 12:55:40.140  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=321094)
+2018/06/29 12:56:37.804  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 13:23:40.142  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=318765)
+2018/06/29 13:24:37.861  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 14:07:31.480  3340  4256 S0   TVRouterClock: received router time: 20180629T060729.798282
+2018/06/29 14:07:31.481  3340  4256 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/29 14:07:31.481  7060  7620 G1   IpcRouterClock: received router time: 20180629T060729.798282
+2018/06/29 15:13:40.139  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=341719)
+2018/06/29 15:14:38.059  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 17:56:40.229  3340  4268 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2018/06/29 17:56:40.442  7060 26468 G1   TAF::Hander::ListRequestThreadRun: Active LT=32113
+2018/06/29 17:56:41.648  7060  7620 G1   TAF::Handler::ParseJson: Received answer is empty.
+2018/06/29 18:07:40.141  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=301156)
+2018/06/29 18:08:38.401  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/29 18:17:00.267  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 7
+2018/06/29 18:17:00.284  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_LOCK
+2018/06/29 18:22:40.140  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=339906)
+2018/06/29 18:23:38.439  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/06/30 02:07:31.711  3340  4264 S0   TVRouterClock: received router time: 20180629T180729.889087
+2018/06/30 02:07:31.711  3340  4264 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/30 02:07:31.711  7060  7624 G1   IpcRouterClock: received router time: 20180629T180729.889087
+2018/06/30 14:07:31.922  3340  4260 S0   TVRouterClock: received router time: 20180630T060730.019360
+2018/06/30 14:07:31.922  3340  4260 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/06/30 14:07:31.922  7060  7620 G1   IpcRouterClock: received router time: 20180630T060730.019360
+2018/06/30 17:56:41.648  3340  4264 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2018/06/30 17:56:41.879  7060 14016 G1   TAF::Hander::ListRequestThreadRun: Active LT=32113
+2018/06/30 17:57:11.881  7060  7624 G1!! HttpRequestImpl::CurlFinished(): curl request failed: Timeout was reached (28), Operation timed out after 30000 milliseconds with 0 bytes received
+2018/06/30 17:57:11.881  7060  7624 G1!  TAF::Handler::RequestListInternal: Communication with https://client.teamviewer.com/taf/index.aspx failed
+2018/07/01 02:07:32.129  3340  4264 S0   TVRouterClock: received router time: 20180630T180730.076055
+2018/07/01 02:07:32.129  3340  4264 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/07/01 02:07:32.129  7060  7612 G1   IpcRouterClock: received router time: 20180630T180730.076055
+2018/07/01 14:07:32.337  3340  4256 S0   TVRouterClock: received router time: 20180701T060730.147704
+2018/07/01 14:07:32.337  3340  4256 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/07/01 14:07:32.337  7060  7624 G1   IpcRouterClock: received router time: 20180701T060730.147704
+2018/07/01 17:57:11.882  3340  4264 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2018/07/01 17:57:12.091  7060 15768 G1   TAF::Hander::ListRequestThreadRun: Active LT=32113
+2018/07/01 17:57:13.012  7060  7620 G1   TAF::Handler::ParseJson: Received answer is empty.
+2018/07/02 02:07:32.544  3340  4260 S0   TVRouterClock: received router time: 20180701T180730.226032
+2018/07/02 02:07:32.544  3340  4260 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/07/02 02:07:32.544  7060  7616 G1   IpcRouterClock: received router time: 20180701T180730.226032
+2018/07/02 08:35:37.846  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_UNLOCK
+2018/07/02 08:35:37.857  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 8
+2018/07/02 08:42:40.144  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=358547)
+2018/07/02 08:42:44.080  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/02 08:56:37.840  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=321969)
+2018/07/02 08:56:44.108  7060  7616 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/02 12:06:37.840  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=352828)
+2018/07/02 12:06:44.603  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/02 12:50:37.841  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=358984)
+2018/07/02 12:50:44.693  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/02 14:07:32.760  3340  4260 S0   TVRouterClock: received router time: 20180702T060732.585240
+2018/07/02 14:07:32.760  3340  4260 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/07/02 14:07:32.761  7060  7616 G1   IpcRouterClock: received router time: 20180702T060732.585240
+2018/07/02 15:04:37.839  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=335594)
+2018/07/02 15:04:44.956  7060  7616 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/02 17:45:37.838  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=333844)
+2018/07/02 17:45:45.231  7060  7616 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/02 17:55:37.839  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=315750)
+2018/07/02 17:55:45.247  7060  7616 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/02 17:57:13.014  3340  4264 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2018/07/02 17:57:13.222  7060 22920 G1   TAF::Hander::ListRequestThreadRun: Active LT=32113
+2018/07/02 17:57:31.541  7060  7612 G1!! HttpRequestImpl::CurlFinished(): curl request failed: Failed sending data to the peer (55), Send failure: Connection was reset
+2018/07/02 17:57:31.541  7060  7612 G1!  TAF::Handler::RequestListInternal: Communication with https://client.teamviewer.com/taf/index.aspx failed
+2018/07/02 18:20:41.237  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 7
+2018/07/02 18:20:41.247  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_LOCK
+2018/07/02 18:26:37.838  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=356672)
+2018/07/02 18:26:45.299  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/03 02:07:32.965  3340  4260 S0   TVRouterClock: received router time: 20180702T180732.645862
+2018/07/03 02:07:32.965  3340  4260 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/07/03 02:07:32.966  7060  7624 G1   IpcRouterClock: received router time: 20180702T180732.645862
+2018/07/03 08:41:44.237  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_UNLOCK
+2018/07/03 08:41:44.247  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 8
+2018/07/03 08:47:37.842  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=342578)
+2018/07/03 08:47:46.710  7060  7616 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/03 10:36:37.839  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=342625)
+2018/07/03 10:36:46.920  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/03 12:06:37.839  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=358469)
+2018/07/03 12:06:47.113  7060  7624 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/03 14:07:33.171  3340  4256 S0   TVRouterClock: received router time: 20180703T060732.702423
+2018/07/03 14:07:33.171  3340  4256 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/07/03 14:07:33.172  7060  7624 G1   IpcRouterClock: received router time: 20180703T060732.702423
+2018/07/03 17:04:37.842  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=329234)
+2018/07/03 17:04:47.687  7060  7616 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/03 17:30:37.840  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=323984)
+2018/07/03 17:30:47.751  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/03 17:57:31.541  3340  4256 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2018/07/03 17:57:31.751  7060 22336 G1   TAF::Hander::ListRequestThreadRun: Active LT=32113
+2018/07/03 17:57:44.050  7060  7612 G1!! HttpRequestImpl::CurlFinished(): curl request failed: Failed sending data to the peer (55), select/poll returned error
+2018/07/03 17:57:44.051  7060  7612 G1!  TAF::Handler::RequestListInternal: Communication with https://client.teamviewer.com/taf/index.aspx failed
+2018/07/03 18:14:07.521  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 7
+2018/07/03 18:14:07.530  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_LOCK
+2018/07/03 18:19:37.839  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=330328)
+2018/07/03 18:19:47.857  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/04 02:07:33.394  3340  4264 S0   TVRouterClock: received router time: 20180703T180732.758843
+2018/07/04 02:07:33.394  3340  4264 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/07/04 02:07:33.394  7060  7624 G1   IpcRouterClock: received router time: 20180703T180732.758843
+2018/07/04 08:35:47.044  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_UNLOCK
+2018/07/04 08:35:47.060  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 8
+2018/07/04 08:45:37.847  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=321031)
+2018/07/04 08:45:49.333  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/04 08:55:37.839  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=333890)
+2018/07/04 08:55:49.352  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/04 09:28:37.843  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=312734)
+2018/07/04 09:28:49.435  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/04 12:05:37.840  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=311109)
+2018/07/04 12:05:49.791  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/04 13:30:37.845  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=354687)
+2018/07/04 13:30:49.945  7060  7612 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/04 14:07:33.600  3340  4264 S0   TVRouterClock: received router time: 20180704T060732.832817
+2018/07/04 14:07:33.600  3340  4264 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/07/04 14:07:33.600  7060  7612 G1   IpcRouterClock: received router time: 20180704T060732.832817
+2018/07/04 17:57:44.052  3340  4268 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2018/07/04 17:57:44.301  7060 23656 G1   TAF::Hander::ListRequestThreadRun: Active LT=32113
+2018/07/04 17:57:44.672  7060  7624 G1   TAF::Handler::ParseJson: Received answer is empty.
+2018/07/04 18:02:26.927  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 7
+2018/07/04 18:02:26.936  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_LOCK
+2018/07/04 18:07:37.842  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=310875)
+2018/07/04 18:07:50.573  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
+2018/07/05 02:07:33.806  3340  4268 S0   TVRouterClock: received router time: 20180704T180732.886218
+2018/07/05 02:07:33.806  3340  4268 S0   TVRouterClock Schedule next request in 43200 seconds
+2018/07/05 02:07:33.806  7060  7624 G1   IpcRouterClock: received router time: 20180704T180732.886218
+2018/07/05 08:38:14.518  3340  3344 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_UNLOCK
+2018/07/05 08:38:14.533  7060  7064 G1   CMainWindow::OnSessionChange [OnlineState] 8
+2018/07/05 08:45:37.843  7060  7064 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=318484)
+2018/07/05 08:45:52.229  7060  7620 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=3, LastAutoUpdate=0, AdminRights=1
